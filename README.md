@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Quality Assurance at Klenty
+- 🔭 working as SDET | just a common man who true to his belief
 - 📫 How to reach me: [LinkedIn - iamkishorekumar](https://www.linkedin.com/in/iamkishorekumar/) , Website - [iamkishorekumar.in](https://www.iamkishorekumar.in/)
 
 
@@ -26,5 +26,3 @@
 </p>
 
 
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/iamkishorekumar-git?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
