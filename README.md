@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-- 🔭 working as SDET | just a common man who true to his belief
+- 🔭 Working as SDET | Just a common man who true to his belief
 - 📫 How to reach me: [LinkedIn - iamkishorekumar](https://www.linkedin.com/in/iamkishorekumar/) , Website - [iamkishorekumar.in](https://www.iamkishorekumar.in/)
 
 
