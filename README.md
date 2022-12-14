@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/iamkishorekumar-git/count.svg" alt="Kishore's profile views" /> 
+  <img src="https://profile-counter.glitch.me/KlentyKishore/count.svg" alt="Kishore's profile views" /> 
 </p>
 
 
