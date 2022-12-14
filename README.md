@@ -1,4 +1,7 @@
-### Bonjour there,I'm [Kishore Kumar ](https://www.iamkishorekumar.in/) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm [Kishore Kumar ](https://www.iamkishorekumar.in/)</h1>
 
 
 <p align="center"> 
