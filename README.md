@@ -1,17 +1,30 @@
-<h1 align="center">Bonjour 👋, I'm Kishore kumar</h1>
-<h3 align="center">Just a common man who true to his belif</h3>
+### Bonjour there,I'm [Kishore Kumar ](https://www.iamkishorekumar.in/) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=klentykishore&label=Profile%20views&color=0e75b6&style=flat" alt="klentykishore" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klentykishore" alt="klentykishore" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center"> 
+  <samp>
+    Profile Views Count
+  </samp>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/iamkishorekumar-git/count.svg" alt="Kishore's profile views" /> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=klentykishore&show_icons=true&locale=en" alt="klentykishore" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klentykishore&" alt="klentykishore" /></p>
+<br/>
+<br/>
+
+- 🔭 I’m currently working on Quality Assurance at Klenty
+- 📫 How to reach me: [LinkedIn - iamkishorekumar](https://www.linkedin.com/in/iamkishorekumar/) , Website - [iamkishorekumar.in](https://www.iamkishorekumar.in/)
+
+
+
+  
+  <p align="center">
+  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+</p>
+
+
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/iamkishorekumar-git?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
