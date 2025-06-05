@@ -19,7 +19,7 @@
 <br/>
 
 # 💫 About Me :
-- 🔭 Working as SDET
+- 🔭 Working as DevOps Enginner
 - 😄 Just a common man who true to his belief
 - 📫 How to reach me: [LinkedIn - iamkishorekumar](https://www.linkedin.com/in/iamkishorekumar/) , Website - [iamkishorekumar.in](https://iamkishorekumar.in/)
 
